@@ -17,6 +17,7 @@ body {
   height: 306px;
   transform-style: preserve-3d;
   box-shadow: 0 0 0 0 #fff;
+  transform: rotateX(175deg);
 }
 .item {
   width: 300px;
